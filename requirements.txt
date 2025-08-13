@@ -1,0 +1,12 @@
+langchain==0.0.352
+langchain-openai==0.0.2
+openai==0.28.1
+chromadb==0.4.22
+sentence-transformers==2.2.2
+streamlit==1.29.0
+pypdf2==3.0.1
+python-dotenv==1.0.0
+tiktoken==0.5.2
+transformers==4.36.2
+torch==2.1.2
+huggingface-hub==0.19.4

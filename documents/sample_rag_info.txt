@@ -1,0 +1,23 @@
+
+# Sample Document for RAG Testing
+
+This is a sample document to test your RAG chatbot.
+
+## About RAG
+Retrieval Augmented Generation (RAG) is a technique that combines:
+- Information retrieval from a knowledge base
+- Natural language generation using AI models
+
+## Benefits of RAG
+1. Provides accurate, source-based answers
+2. Reduces hallucination in AI responses
+3. Allows chatbots to work with specific documents
+4. Can work with constantly updated information
+
+## How it works
+1. Documents are split into chunks
+2. Chunks are converted to embeddings
+3. User questions are matched to relevant chunks
+4. AI generates responses based on retrieved context
+
+Feel free to ask questions about this document!
